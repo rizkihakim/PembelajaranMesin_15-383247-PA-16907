@@ -1,4 +1,4 @@
-Stochastic Gradient Descent
+#Stochastic Gradient Descent
 SGD Algorithm menggunakan Microsoft Excel
 
 Data yang dipakai :
