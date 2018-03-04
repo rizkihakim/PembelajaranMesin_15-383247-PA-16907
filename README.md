@@ -1,7 +1,9 @@
 # Stochastic Gradient Descent
 
 
+
 SGD Algorithm menggunakan Microsoft Excel
+
 
 Data yang dipakai :
 
@@ -18,6 +20,7 @@ bias awal:	0,6
 e	2,7182818
 
 learning rate: (α)	0,1
+
 
 
 Lalu implementasi kode untuk membuat grafik error terhadap epoch menggunakan java
