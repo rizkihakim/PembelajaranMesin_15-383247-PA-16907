@@ -3,15 +3,15 @@ SGD Algorithm menggunakan Microsoft Excel
 
 Data yang dipakai :
 
-θ1 awal: 0,2
+θ1 awal: 0,1
 
-θ2 awal: 0,3
+θ2 awal: 0,2
 
-θ3 awal: 0,4
+θ3 awal: 0,3
 
-θ4 awal: 0,5
+θ4 awal: 0,4
 
-bias awal: 0,6
+bias awal: 0,5
 
 e: 2,7182818
 
