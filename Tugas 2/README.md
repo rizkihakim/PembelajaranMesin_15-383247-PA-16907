@@ -1,5 +1,5 @@
-# Stochastic Gradient Descent
-SGD Algorithm menggunakan Microsoft Excel
+# Testing Data
+Testing Data Algorithm menggunakan Python
 
 Data yang dipakai :
 
@@ -15,6 +15,6 @@ bias awal: 0,5
 
 e: 2,7182818
 
-learning rate: (a) 0,1
+learning rate: (a) 0,1 dan 0,8
 
-Lalu implementasi kode untuk membuat grafik error terhadap epoch menggunakan java Prediksi Error
+Lalu implementasi kode untuk membuat grafik error pada tahap training data dan testing data menggunakan python Prediksi Error
